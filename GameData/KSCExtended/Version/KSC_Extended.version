@@ -1,30 +1,30 @@
 {
-	"NAME": "KSC Extended",
+	"NAME": "<b><color=#ffffff>KSC Extended</color></b>",
 	"URL": "https://raw.githubusercontent.com/damonvv/KSC-Extended/master/GameData/KSCExtended/Version/KSC_Extended.version",
-	"DOWNLOAD": "https://forum.kerbalspaceprogram.com/index.php?/topic/181556-1xx-ksc-extended-v10-expanding-your-ksc-in-style/",
+	"DOWNLOAD": "https://forum.kerbalspaceprogram.com/index.php?/topic/181556-145-ksc-extended-v10-expanding-your-ksc-in-style/",
 	"VERSION":
 	{
 		"MAJOR": 1,
-		"MINOR": 0,
+		"MINOR": 1,
 		"PATCH": 0,
 		"BUILD": 0
 	},
 	"KSP_VERSION":
 	{
 		"MAJOR": 1,
-		"MINOR": 6,
-		"PATCH": 1
+		"MINOR": 7,
+		"PATCH": 0
 	},
 	"KSP_VERSION_MIN":
 	{
 		"MAJOR": 1,
-		"MINOR": 2,
-		"PATCH": 2
+		"MINOR": 4,
+		"PATCH": 5
 	},
 	"KSP_VERSION_MAX":
 	{
 		"MAJOR": 1,
-		"MINOR": 6,
+		"MINOR": 7,
 		"PATCH": 99
 	}
 }
