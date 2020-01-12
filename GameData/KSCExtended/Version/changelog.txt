@@ -1,0 +1,10 @@
+2.1
+* Added launch site logos for all sites.
+* Added helipad launch sites.
+* Added useable fueling depots.
+* Compatible with CRP and WBI Classic Stock.
+* Added business/research modules to any Research Complex, Horizontal Integration, Payload Integration, Orbiter Processing facilities.
+* Added hangar module to extra SPH and Tier 4 VAB at KSC.
+* Added DSN module (360km range), hangar modules at remote TSC.
+* Added pricing scheme to everything.
+* Nothing is free anymore. Top kek.
