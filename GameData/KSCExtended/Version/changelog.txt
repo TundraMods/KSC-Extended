@@ -1,3 +1,12 @@
+2.2
+* Renamed a static (TCL_41, removed ".mu" from pointername) and updated references in KK group.
+* Consolidated play mode patch into one file.
+* Updated Classic mode to provide Oxium, Nitronite in addition to Propellium, Raptium, RHK1.
+* Fix for JNSQ:
+  * Create separate folder "TSCJNSQ" and append the proper `:NEEDS` to all configs
+  * Includes patch to color match grass colors to terrain.
+  * Repositions TSC (in a very, very different location) and fixes minor rotation/curvature problems.
+
 2.1
 * Added launch site logos for all sites.
 * Added helipad launch sites.
